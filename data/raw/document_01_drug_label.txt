@@ -1,0 +1,33 @@
+DOCUMENT TITLE: Aspirin Drug Profile
+
+Drug Name: Aspirin
+
+Active Ingredient:
+Aspirin (acetylsalicylic acid)
+
+Drug Class:
+Nonsteroidal anti-inflammatory drug (NSAID)
+Antiplatelet agent
+
+Indications:
+Aspirin is used for pain relief and fever reduction.
+Low-dose aspirin is also used to reduce the risk of cardiovascular events in appropriate patients.
+
+Mechanism of Action:
+Aspirin inhibits cyclooxygenase enzymes, primarily COX-1 and COX-2.
+This reduces the production of prostaglandins and thromboxanes.
+Inhibition of platelet thromboxane A2 production reduces platelet aggregation.
+
+Molecular Targets:
+COX-1 (PTGS1)
+COX-2 (PTGS2)
+
+Clinical Use:
+Aspirin has been studied and used in cardiovascular disease, including prevention of myocardial infarction in appropriate patient populations.
+
+Adverse Events:
+Common or clinically important adverse effects include gastrointestinal irritation and gastrointestinal bleeding.
+Hypersensitivity reactions can also occur.
+
+Important Safety Information:
+The risk of gastrointestinal bleeding can increase with higher doses and with certain concomitant medications.
