@@ -1,0 +1,38 @@
+DOCUMENT TITLE: Aspirin Clinical Study
+
+Study Name:
+Low-Dose Aspirin Clinical Study
+
+Study Type:
+Randomized clinical trial
+
+Intervention:
+Aspirin
+
+Disease / Condition:
+Colorectal adenoma
+
+Study Population:
+Adults with a history of colorectal adenomas.
+
+Study Design:
+Participants were assigned to aspirin treatment groups or placebo.
+
+Treatment:
+Participants received a low-dose aspirin regimen during the study period.
+
+Biomarker:
+Urinary PGE-M was measured as a biomarker related to prostaglandin E2 biosynthesis.
+
+Study Objective:
+The study evaluated whether low-dose aspirin affected prostaglandin-related biomarkers among individuals with colorectal adenomas.
+
+Results:
+The study compared changes in urinary PGE-M between participants receiving aspirin and participants receiving placebo.
+
+Safety:
+No serious adverse events were reported during the study.
+Minor adverse events and participant complaints occurred at similar frequencies across treatment groups.
+
+Conclusion:
+The study provided clinical evidence regarding the biological effects and safety of low-dose aspirin in individuals with colorectal adenomas.
