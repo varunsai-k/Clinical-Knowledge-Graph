@@ -1,2 +1,11 @@
-# Clinical-Knowledge-Graph
-Build a Clinical Knowledge Graph from unstructured drug labels and clinical trial documents using LLM-based structured extraction, Pydantic, and Neo4j.
+# 🧬 Clinical Knowledge Graph
+
+From unstructured clinical documents to a structured, queryable knowledge graph using LLMs, Pydantic, and Neo4j.
+
+Clinical documents contain much more than isolated pieces of information.
+
+A drug label may mention a drug, its active ingredient, indications, molecular targets, and adverse events. A clinical trial may connect drugs to diseases, biomarkers, patient populations, outcomes, and reported adverse events.
+
+Traditional document search can retrieve the relevant text, but it does not explicitly model these relationships.
+
+This project explores how to transform those documents into a Clinical Knowledge Graph where entities and relationships can be queried directly.
