@@ -48,10 +48,6 @@ class GraphExtractor:
             document_type=document_type
         )
 
-        # ----------------------------------
-        # Drug label
-        # ----------------------------------
-
         if document_type == "drug_label":
 
             structured_llm = (
@@ -59,10 +55,6 @@ class GraphExtractor:
                     ExtractedDrugProfile
                 )
             )
-
-        # ----------------------------------
-        # Clinical trial
-        # ----------------------------------
 
         elif document_type == "clinical_trial":
 
